@@ -18,13 +18,17 @@ Note:
 
 > https://github.com/Jame0910/gurobi_examples/issues
 
-3. The Online Code Website:
+3. Some web
 
+> The Online Code Website:
+>
 > https://www.gurobi.com/resource/functional-code-examples/
-
-4. The Gurobi 9.0.0 Documentation
-
+>
+> The Gurobi 9.0.0 Documentation
+>
 > https://www.gurobi.com/documentation/9.0/examples/index.html
+
+4. In the Excel, I list what is worth-mentioning in each example.
 
 
 
