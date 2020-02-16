@@ -1,0 +1,13 @@
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Maximize
+  -0 B0(0) + -0 B1(0) + -0 B2(0) + -0 B3(0) + -0 B4(0) + -0 B5(0) + -0 B6(0)
+   + -0 B7(0) + -0 B8(0) + -0 B9(0) + 32 B10(1) + 32 B11(1) + 15 B12(1)
+   + 15 B13(1) + 6 B14(1) + 6 B15(1) + B16(1) + B17(1) + B18(1) + B19(1)
+Subject To
+ c0: 16 B10(1) + 16 B11(1) + 8 B12(1) + 8 B13(1) + 4 B14(1) + 4 B15(1)
+   + 2 B16(1) + 2 B17(1) + B18(1) + B19(1) <= 33
+Bounds
+Binaries
+ B0(0) B1(0) B2(0) B3(0) B4(0) B5(0) B6(0) B7(0) B8(0) B9(0) B10(1) B11(1)
+ B12(1) B13(1) B14(1) B15(1) B16(1) B17(1) B18(1) B19(1)
+End
