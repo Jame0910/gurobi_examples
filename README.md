@@ -30,6 +30,3 @@ Note:
 
 4. In the Excel, I list what is worth-mentioning in each example.
 
-
-
-Jame
